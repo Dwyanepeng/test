@@ -1,0 +1,12 @@
+'modulef2_效果比较好'：mse:0.0038
+model.add(Dense(units=1024, kernel_initializer='normal', activation='tanh',input_shape=(InputSize,)))
+model.add(Dense(units=1, kernel_initializer='normal', activation='sigmoid'))
+model.compile(loss='mean_squared_error',optimizer='adam',metrics=[metrics.mae])
+
+batch_size=32,epochs=10
+
+modelf2:mse 0.0035
+512
+
+
+
