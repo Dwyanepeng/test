@@ -17,3 +17,7 @@
 ### 中文版权重
 - 官方版： https://github.com/google-research/bert
 - 哈工大版： https://github.com/ymcui/Chinese-BERT-wwm
+<<<<<<< HEAD
+=======
+
+>>>>>>> eb7d1773ab119ae4e99aba44d28402e64608efc9
